@@ -1,0 +1,8 @@
+C:\Users\arunk\source\repos\ShoppingCart\DTO\bin\Debug\netstandard2.0\DTO.deps.json
+C:\Users\arunk\source\repos\ShoppingCart\DTO\bin\Debug\netstandard2.0\DTO.dll
+C:\Users\arunk\source\repos\ShoppingCart\DTO\bin\Debug\netstandard2.0\DTO.pdb
+C:\Users\arunk\source\repos\ShoppingCart\DTO\obj\Debug\netstandard2.0\DTO.csprojAssemblyReference.cache
+C:\Users\arunk\source\repos\ShoppingCart\DTO\obj\Debug\netstandard2.0\DTO.AssemblyInfoInputs.cache
+C:\Users\arunk\source\repos\ShoppingCart\DTO\obj\Debug\netstandard2.0\DTO.AssemblyInfo.cs
+C:\Users\arunk\source\repos\ShoppingCart\DTO\obj\Debug\netstandard2.0\DTO.dll
+C:\Users\arunk\source\repos\ShoppingCart\DTO\obj\Debug\netstandard2.0\DTO.pdb

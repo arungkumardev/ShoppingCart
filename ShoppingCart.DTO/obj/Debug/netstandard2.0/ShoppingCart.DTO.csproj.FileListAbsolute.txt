@@ -1,0 +1,16 @@
+C:\Users\arunk\source\repos\ShoppingCart\DTO\bin\Debug\netstandard2.0\ShoppingCart.DTO.deps.json
+C:\Users\arunk\source\repos\ShoppingCart\DTO\bin\Debug\netstandard2.0\ShoppingCart.DTO.dll
+C:\Users\arunk\source\repos\ShoppingCart\DTO\bin\Debug\netstandard2.0\ShoppingCart.DTO.pdb
+C:\Users\arunk\source\repos\ShoppingCart\DTO\obj\Debug\netstandard2.0\ShoppingCart.DTO.csprojAssemblyReference.cache
+C:\Users\arunk\source\repos\ShoppingCart\DTO\obj\Debug\netstandard2.0\ShoppingCart.DTO.AssemblyInfoInputs.cache
+C:\Users\arunk\source\repos\ShoppingCart\DTO\obj\Debug\netstandard2.0\ShoppingCart.DTO.AssemblyInfo.cs
+C:\Users\arunk\source\repos\ShoppingCart\DTO\obj\Debug\netstandard2.0\ShoppingCart.DTO.dll
+C:\Users\arunk\source\repos\ShoppingCart\DTO\obj\Debug\netstandard2.0\ShoppingCart.DTO.pdb
+C:\Users\arunk\source\repos\ShoppingCart\ShoppingCart.DTO\bin\Debug\netstandard2.0\ShoppingCart.DTO.deps.json
+C:\Users\arunk\source\repos\ShoppingCart\ShoppingCart.DTO\bin\Debug\netstandard2.0\ShoppingCart.DTO.dll
+C:\Users\arunk\source\repos\ShoppingCart\ShoppingCart.DTO\bin\Debug\netstandard2.0\ShoppingCart.DTO.pdb
+C:\Users\arunk\source\repos\ShoppingCart\ShoppingCart.DTO\obj\Debug\netstandard2.0\ShoppingCart.DTO.csprojAssemblyReference.cache
+C:\Users\arunk\source\repos\ShoppingCart\ShoppingCart.DTO\obj\Debug\netstandard2.0\ShoppingCart.DTO.AssemblyInfoInputs.cache
+C:\Users\arunk\source\repos\ShoppingCart\ShoppingCart.DTO\obj\Debug\netstandard2.0\ShoppingCart.DTO.AssemblyInfo.cs
+C:\Users\arunk\source\repos\ShoppingCart\ShoppingCart.DTO\obj\Debug\netstandard2.0\ShoppingCart.DTO.dll
+C:\Users\arunk\source\repos\ShoppingCart\ShoppingCart.DTO\obj\Debug\netstandard2.0\ShoppingCart.DTO.pdb

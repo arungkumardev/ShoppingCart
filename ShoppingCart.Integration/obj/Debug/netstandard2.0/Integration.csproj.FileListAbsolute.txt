@@ -1,0 +1,11 @@
+C:\Users\arunk\source\repos\Integration\bin\Debug\netstandard2.0\Integration.deps.json
+C:\Users\arunk\source\repos\Integration\bin\Debug\netstandard2.0\Integration.dll
+C:\Users\arunk\source\repos\Integration\bin\Debug\netstandard2.0\Integration.pdb
+C:\Users\arunk\source\repos\Integration\bin\Debug\netstandard2.0\DTO.dll
+C:\Users\arunk\source\repos\Integration\bin\Debug\netstandard2.0\DTO.pdb
+C:\Users\arunk\source\repos\Integration\obj\Debug\netstandard2.0\Integration.csprojAssemblyReference.cache
+C:\Users\arunk\source\repos\Integration\obj\Debug\netstandard2.0\Integration.AssemblyInfoInputs.cache
+C:\Users\arunk\source\repos\Integration\obj\Debug\netstandard2.0\Integration.AssemblyInfo.cs
+C:\Users\arunk\source\repos\Integration\obj\Debug\netstandard2.0\Integration.csproj.CopyComplete
+C:\Users\arunk\source\repos\Integration\obj\Debug\netstandard2.0\Integration.dll
+C:\Users\arunk\source\repos\Integration\obj\Debug\netstandard2.0\Integration.pdb

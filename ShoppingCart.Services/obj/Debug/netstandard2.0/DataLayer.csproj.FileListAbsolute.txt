@@ -1,0 +1,13 @@
+C:\Users\arunk\source\repos\ShoppingCart\DataLayer\bin\Debug\netstandard2.0\DataLayer.deps.json
+C:\Users\arunk\source\repos\ShoppingCart\DataLayer\bin\Debug\netstandard2.0\DataLayer.dll
+C:\Users\arunk\source\repos\ShoppingCart\DataLayer\bin\Debug\netstandard2.0\DataLayer.pdb
+C:\Users\arunk\source\repos\ShoppingCart\DataLayer\bin\Debug\netstandard2.0\DTO.dll
+C:\Users\arunk\source\repos\ShoppingCart\DataLayer\bin\Debug\netstandard2.0\Integration.dll
+C:\Users\arunk\source\repos\ShoppingCart\DataLayer\bin\Debug\netstandard2.0\Integration.pdb
+C:\Users\arunk\source\repos\ShoppingCart\DataLayer\bin\Debug\netstandard2.0\DTO.pdb
+C:\Users\arunk\source\repos\ShoppingCart\DataLayer\obj\Debug\netstandard2.0\DataLayer.csprojAssemblyReference.cache
+C:\Users\arunk\source\repos\ShoppingCart\DataLayer\obj\Debug\netstandard2.0\DataLayer.AssemblyInfoInputs.cache
+C:\Users\arunk\source\repos\ShoppingCart\DataLayer\obj\Debug\netstandard2.0\DataLayer.AssemblyInfo.cs
+C:\Users\arunk\source\repos\ShoppingCart\DataLayer\obj\Debug\netstandard2.0\DataLayer.csproj.CopyComplete
+C:\Users\arunk\source\repos\ShoppingCart\DataLayer\obj\Debug\netstandard2.0\DataLayer.dll
+C:\Users\arunk\source\repos\ShoppingCart\DataLayer\obj\Debug\netstandard2.0\DataLayer.pdb

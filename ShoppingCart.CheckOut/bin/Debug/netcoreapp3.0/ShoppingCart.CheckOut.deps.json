@@ -1,0 +1,63 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "ShoppingCart.CheckOut/1.0.0": {
+        "dependencies": {
+          "ShoppingCart.Integration": "1.0.0",
+          "ShoppingCart.Service": "1.0.0"
+        },
+        "runtime": {
+          "ShoppingCart.CheckOut.dll": {}
+        }
+      },
+      "ShoppingCart.DTO/1.0.0": {
+        "runtime": {
+          "ShoppingCart.DTO.dll": {}
+        }
+      },
+      "ShoppingCart.Integration/1.0.0": {
+        "dependencies": {
+          "ShoppingCart.DTO": "1.0.0"
+        },
+        "runtime": {
+          "ShoppingCart.Integration.dll": {}
+        }
+      },
+      "ShoppingCart.Service/1.0.0": {
+        "dependencies": {
+          "ShoppingCart.Integration": "1.0.0"
+        },
+        "runtime": {
+          "ShoppingCart.Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ShoppingCart.CheckOut/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ShoppingCart.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ShoppingCart.Integration/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ShoppingCart.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "ShoppingCart.DTO/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/ShoppingCart.DTO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ShoppingCart.DTO.dll": {}
+        }
+      },
+      "ShoppingCart.Integration/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "ShoppingCart.DTO": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ShoppingCart.Integration.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ShoppingCart.Integration.dll": {}
+        }
+      },
+      "ShoppingCart.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "ShoppingCart.Integration": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ShoppingCart.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ShoppingCart.Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ShoppingCart.DTO/1.0.0": {
+      "type": "project",
+      "path": "DTO/ShoppingCart.DTO.csproj",
+      "msbuildProject": "DTO/ShoppingCart.DTO.csproj"
+    },
+    "ShoppingCart.Integration/1.0.0": {
+      "type": "project",
+      "path": "../Integration/ShoppingCart.Integration.csproj",
+      "msbuildProject": "../Integration/ShoppingCart.Integration.csproj"
+    },
+    "ShoppingCart.Service/1.0.0": {
+      "type": "project",
+      "path": "DataLayer/ShoppingCart.Service.csproj",
+      "msbuildProject": "DataLayer/ShoppingCart.Service.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "ShoppingCart.Integration >= 1.0.0",
+      "ShoppingCart.Service >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\arunk\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\arunk\\source\\repos\\ShoppingCart\\ShoppingCart.CheckOut.csproj",
+      "projectName": "ShoppingCart.CheckOut",
+      "projectPath": "C:\\Users\\arunk\\source\\repos\\ShoppingCart\\ShoppingCart.CheckOut.csproj",
+      "packagesPath": "C:\\Users\\arunk\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\arunk\\source\\repos\\ShoppingCart\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\arunk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {
+            "C:\\Users\\arunk\\source\\repos\\ShoppingCart\\DataLayer\\ShoppingCart.Service.csproj": {
+              "projectPath": "C:\\Users\\arunk\\source\\repos\\ShoppingCart\\DataLayer\\ShoppingCart.Service.csproj"
+            },
+            "C:\\Users\\arunk\\source\\repos\\ShoppingCart\\ShoppingCart.Integration\\ShoppingCart.Integration.csproj": {
+              "projectPath": "C:\\Users\\arunk\\source\\repos\\ShoppingCart\\ShoppingCart.Integration\\ShoppingCart.Integration.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
